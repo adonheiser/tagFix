@@ -1,5 +1,4 @@
-import unittest, random, sys, os
-import tagfix , uu
+import unittest, os, tagfix , uu
 import unittest.mock as mock
 
 class tagFixTests(unittest.TestCase):
